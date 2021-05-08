@@ -1,0 +1,9 @@
+.menu-hover.active {
+  background: #ddd;
+  border-radius: 5px;
+}
+
+.menu-hover:hover {
+  background: #eee;
+  border-radius: 5px;
+}

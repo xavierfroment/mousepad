@@ -1,0 +1,32 @@
+.price {
+  background-color: #ffc107;
+  color:black;
+  font-weight: bolder;
+}
+
+.priceno {
+  background-color: #a0a6ab;
+  color:white;
+  font-weight: bolder;
+}
+
+.corner-price {
+  position:absolute;
+  border-radius: 0px 0px 0px 50px;
+  background-color: #ffc107;
+  color: black;
+  padding: 15px;
+  right: 0;
+  top: 0 ;
+  font-weight: bold;
+}
+.corner-priceno {
+  position:absolute;
+  border-radius: 0px 0px 0px 50px;
+  background-color: #a0a6ab;
+  color: white;
+  padding: 15px;
+  right: 0;
+  top: 0 ;
+  font-weight: 500;
+}
